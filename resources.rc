@@ -1,0 +1,4 @@
+#include "resource.h"
+
+BOO WAVE "boo.wav"
+SKULL BITMAP "nightmare.bmp"
